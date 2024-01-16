@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5RDwMMqv9FshWqQi28UHqN3wsmMrZCnEWvzXw3I73Ck=",
+  "Source": "MedicineService",
+  "BasePath": "_content/MedicineService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

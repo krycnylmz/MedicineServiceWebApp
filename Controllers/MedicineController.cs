@@ -245,7 +245,7 @@ public class MedicineController : ControllerBase
         }
 
         // Use IActionResult and return a response
-        return Ok("Drug names successfully saved to Cosmos DB.");
+        return Ok("Drug names successfully saved to DB.");
     }
 
     private decimal GenerateRandomPrice()
